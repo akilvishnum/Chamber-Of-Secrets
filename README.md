@@ -32,7 +32,9 @@ Online Connection game where the carousel of images will be displayed up and peo
 ![WhatsApp Image 2020-04-21 at 11 02 24 AM](https://user-images.githubusercontent.com/56084840/79840380-73a8c580-83d3-11ea-8e36-24aef2718aec.jpeg)
 ![WhatsApp Image 2020-04-21 at 11 02 26 AM](https://user-images.githubusercontent.com/56084840/79840376-72779880-83d3-11ea-8590-17be6bd65d7c.jpeg)
 ![WhatsApp Image 2020-04-21 at 11 02 33 AM](https://user-images.githubusercontent.com/56084840/79840372-71df0200-83d3-11ea-9de9-bba6e5024683.jpeg)
+<p align = "center">
 ![WhatsApp Image 2020-04-21 at 12 09 39 PM (1)](https://user-images.githubusercontent.com/56084840/79840364-6f7ca800-83d3-11ea-88b7-d3587f75ce65.jpeg)
+  </p>
 ![WhatsApp Image 2020-04-21 at 12 09 39 PM](https://user-images.githubusercontent.com/56084840/79840370-71466b80-83d3-11ea-9398-7c27156900e0.jpeg)
 
 
