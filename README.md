@@ -23,9 +23,16 @@ Online Connection game where the carousel of images will be displayed up and peo
 7. DIGITAL OCEAN
 
 ## Screen Shots of the App: :camera_flash:
+### Landing Page ( Dark Theme ) 
+Simple and Easy to use landing page which allows users to either login and signup to play the game :space_invader:
 ![WhatsApp Image 2020-04-21 at 11 02 32 AM](https://user-images.githubusercontent.com/56084840/79840238-49570800-83d3-11ea-89c1-9a07d67dc512.jpeg)
+### Rules of the Game :v:
 ![WhatsApp Image 2020-04-21 at 11 02 31 AM (1)](https://user-images.githubusercontent.com/56084840/79840282-5542ca00-83d3-11ea-83b9-dfb91f4c2b77.jpeg)
+### Signup :email:
+Users are allowed to signup with their email and some validation are done in this part :metal:
 ![WhatsApp Image 2020-04-21 at 11 02 31 AM](https://user-images.githubusercontent.com/56084840/79840290-596ee780-83d3-11ea-96fe-c9faf688d99c.jpeg)
+### Select Players - 1 
+We have to select 3 players to enter the game.
 ![WhatsApp Image 2020-04-21 at 11 02 29 AM](https://user-images.githubusercontent.com/56084840/79840302-5d9b0500-83d3-11ea-9e9b-c1231d6b3e67.jpeg)
 ![WhatsApp Image 2020-04-21 at 11 02 30 AM (1)](https://user-images.githubusercontent.com/56084840/79840307-5ffd5f00-83d3-11ea-8f76-841ac7139a76.jpeg)
 ![WhatsApp Image 2020-04-21 at 11 02 27 AM](https://user-images.githubusercontent.com/56084840/79840328-668bd680-83d3-11ea-8545-87b1d181edcf.jpeg)
@@ -36,6 +43,6 @@ Online Connection game where the carousel of images will be displayed up and peo
 <img src = "https://user-images.githubusercontent.com/56084840/79840364-6f7ca800-83d3-11ea-88b7-d3587f75ce65.jpeg">
   </p>
   <p align = "center">
-<img width = "70" height = "50" src = "https://user-images.githubusercontent.com/56084840/79840370-71466b80-83d3-11ea-9398-7c27156900e0.jpeg">
+<img  src = "https://user-images.githubusercontent.com/56084840/79840370-71466b80-83d3-11ea-9398-7c27156900e0.jpeg">
 </p>
 
