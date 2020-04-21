@@ -66,5 +66,5 @@ Site was made responsive to device having min-width of 320px. :
 </p>
 
 
-![IMG-20200307-WA0015](https://user-images.githubusercontent.com/56084840/79848246-765ce800-83de-11ea-9463-1f438a972e04.jpg)
+
 
