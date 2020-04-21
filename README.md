@@ -35,6 +35,7 @@ Online Connection game where the carousel of images will be displayed up and peo
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/56084840/79840364-6f7ca800-83d3-11ea-88b7-d3587f75ce65.jpeg">
   </p>
-![WhatsApp Image 2020-04-21 at 12 09 39 PM](https://user-images.githubusercontent.com/56084840/79840370-71466b80-83d3-11ea-9398-7c27156900e0.jpeg)
-
+  <p align = "center">
+<img width = "70" height = "50" src = "https://user-images.githubusercontent.com/56084840/79840370-71466b80-83d3-11ea-9398-7c27156900e0.jpeg">
+</p>
 
