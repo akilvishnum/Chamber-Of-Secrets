@@ -32,16 +32,29 @@ Simple and Easy to use landing page which allows users to either login and signu
 Users are allowed to signup with their email and some validation are done in this part :metal:
 ![WhatsApp Image 2020-04-21 at 11 02 31 AM](https://user-images.githubusercontent.com/56084840/79840290-596ee780-83d3-11ea-96fe-c9faf688d99c.jpeg)
 ### Select Players - 1 
-We have to select 3 players to enter the game.
+We have to select 3 players to enter the game :100::hearts:
 ![WhatsApp Image 2020-04-21 at 11 02 29 AM](https://user-images.githubusercontent.com/56084840/79840302-5d9b0500-83d3-11ea-9e9b-c1231d6b3e67.jpeg)
+### Select Players - 2
+The players are displayed depending on the Franchise you select :zap:
 ![WhatsApp Image 2020-04-21 at 11 02 30 AM (1)](https://user-images.githubusercontent.com/56084840/79840307-5ffd5f00-83d3-11ea-8f76-841ac7139a76.jpeg)
+### Dynamic GIFs Display - 1
+GIFs are displayed when you move up to another level :top:
 ![WhatsApp Image 2020-04-21 at 11 02 27 AM](https://user-images.githubusercontent.com/56084840/79840328-668bd680-83d3-11ea-8545-87b1d181edcf.jpeg)
+### Level Up Window 
+You will happen to play with opposite teams in a random order
 ![WhatsApp Image 2020-04-21 at 11 02 24 AM](https://user-images.githubusercontent.com/56084840/79840380-73a8c580-83d3-11ea-8e36-24aef2718aec.jpeg)
+### Dynamic GIFs Display - 2
 ![WhatsApp Image 2020-04-21 at 11 02 26 AM](https://user-images.githubusercontent.com/56084840/79840376-72779880-83d3-11ea-8590-17be6bd65d7c.jpeg)
+### End Animation
+Suprise animation at the end if you finish all levels
 ![WhatsApp Image 2020-04-21 at 11 02 33 AM](https://user-images.githubusercontent.com/56084840/79840372-71df0200-83d3-11ea-9de9-bba6e5024683.jpeg)
+### Mobile Responsive
+Site was made responsive to all devices :computer:
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/56084840/79840364-6f7ca800-83d3-11ea-88b7-d3587f75ce65.jpeg">
   </p>
+  ### Mobile Responsive (2)
+  
   <p align = "center">
 <img  src = "https://user-images.githubusercontent.com/56084840/79840370-71466b80-83d3-11ea-9398-7c27156900e0.jpeg">
 </p>
